@@ -1,0 +1,3 @@
+*.bed.gz
+sorted_bed_file_per_sample/
+.DS_Store
